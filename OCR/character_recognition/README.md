@@ -23,4 +23,4 @@ AipOcr.php //这个算是主函数吧
 
 >注意:因为程序运行的过程中会调用getimagesizefromstring 函数 — Get the size of an image from a string 把图像转化成字符 所以要求PHP版本(PHP 5 >= 5.4.0, PHP 7)
 
-
+调用的是百度的OCR接口
