@@ -10,13 +10,19 @@
 │
 ├─MySQL
 │      MySQL必知必会（文字版）.pdf
+│      SQL基础教程 (z-lib.org).pdf
+│      《SQL进阶教程》高清中文版.pdf
 │      高性能MySQL 第3版 中文 .pdf
 │
 ├─大数据
+│      Hive编程指南-by-_美_Edward-Capriolo　Dean-Wampler　Jason-Rutherglen-著-_z-lib.org_.pdf
+│      Spark_SQL大数据实例开发教程.pdf by Spark_SQL大数据实例开发教程.pdf (z-lib.org).pdf
 │      图解Spark  核心技术与案例实战_郭景瞻编著.pdf
 │
 ├─数据分析
+│      Python数据分析与数据化运营 by 宋天龙 (z-lib.org).pdf
 │      数据分析与R语言03.pdf
+│      数据科学入门 by 数据科学入门 (z-lib.org).pdf
 │      数据科学实战手册（R+PYTHON）.pdf
 │      统计决策论及贝叶斯分析.pdf
 │      统计决策论及贝叶斯分析（第二版）（James O.Berger）.pdf
